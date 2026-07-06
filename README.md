@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Jakub. I am 23 years old. I am currently studying informatics at Technical University of Košice.
 
-<img width="230" height="260" alt="cv" src="https://github.com/user-attachments/assets/c281914f-c427-4161-9554-913a79329cc0" />
+<img width="230" height="250" alt="cv" src="https://github.com/user-attachments/assets/c281914f-c427-4161-9554-913a79329cc0" />
 
 - 🔭 I’m currently working on Football Manager clone in Java and my Master thesis
 - 🌱 I’m currently learning ASR and speech classification with machine learning 
@@ -15,4 +15,3 @@ My name is Jakub. I am 23 years old. I am currently studying informatics at Tech
      - Linux (RHEL, Fedora, Ubuntu)
      - Cloud (AWS, Azure)
 - 📫 How to reach me: https://www.linkedin.com/in/jbaransky/
-- ⚡ Fun fact: I play guitar 🎸
